@@ -6,3 +6,5 @@
 [![asciicast](https://asciinema.org/a/zByfxkWSDo1drOUxJ2TUfxliu.svg)](https://asciinema.org/a/zByfxkWSDo1drOUxJ2TUfxliu)
 ### Пример запуска игры brain-calc
 [![asciicast](https://asciinema.org/a/TLKdsfNDUcQ8EfNv8LxzecV3H.svg)](https://asciinema.org/a/TLKdsfNDUcQ8EfNv8LxzecV3H)
+### Пример запуска игры brain-gcd
+[![asciicast](https://asciinema.org/a/IlkhKebIBDPxrxgg9Imz42bZT.svg)](https://asciinema.org/a/IlkhKebIBDPxrxgg9Imz42bZT)
