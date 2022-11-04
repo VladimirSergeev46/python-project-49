@@ -1,13 +1,13 @@
 import prompt
-from question import rand_num
 
 
-def logic(name):
-    for i in range(0, 3):
-        question, correct_answer = rand_num()
+def logic(name, question_answer):
+    for i in range(3):
+        question = question_answer[i][0]
+        correct_answer = question_answer[i][1]
         print(f'Question: {question}')
         answer = prompt.string('Your answer: ')
-        if answer == correct_answer:
+        if answer == str(correct_answer):
             print('Correct!')
         else:
             print(f"'{answer}' is wrong answer ;(."
