@@ -10,3 +10,5 @@
 [![asciicast](https://asciinema.org/a/IlkhKebIBDPxrxgg9Imz42bZT.svg)](https://asciinema.org/a/IlkhKebIBDPxrxgg9Imz42bZT)
 ### Пример запуска игры brain-progression
 [![asciicast](https://asciinema.org/a/HR9yvVhytcoQYYONiqe34tJ9U.svg)](https://asciinema.org/a/HR9yvVhytcoQYYONiqe34tJ9U)
+### Пример запуска игры brain-prime
+[![asciicast](https://asciinema.org/a/CEfj0K7ABD4HqmNBrSOHh6wDF.svg)](https://asciinema.org/a/CEfj0K7ABD4HqmNBrSOHh6wDF)
