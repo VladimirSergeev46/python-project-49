@@ -41,7 +41,7 @@ Use following commands to install package:
 [![asciicast](https://asciinema.org/a/argw9NB2J5FFNpnS1gjHhgo18.svg)](https://asciinema.org/a/argw9NB2J5FFNpnS1gjHhgo18)
 
 ### Пример запуска игры brain-progression
-[![asciicast](https://asciinema.org/a/5z5JgMNyzWPs0NW38QNJAEQjC.svg)](https://asciinema.org/a/5z5JgMNyzWPs0NW38QNJAEQjC)
+[![asciicast](https://asciinema.org/a/mx7sNYsOH2pDYuoJXlU0O91Os.svg)](https://asciinema.org/a/mx7sNYsOH2pDYuoJXlU0O91Os)
 
 ### Пример запуска игры brain-prime
 [![asciicast](https://asciinema.org/a/TgQgFYpVX8l9PdkPnF5PTrrEK.svg)](https://asciinema.org/a/TgQgFYpVX8l9PdkPnF5PTrrEK)
