@@ -14,6 +14,7 @@ def rand_progression():
         deleted_element = random.randint(0, len(sequence) - 1)
         correct_answer = sequence[deleted_element]
         sequence[deleted_element] = '..'
-        question = sequence
+        question = str(sequence).strip('[]')
+        question = question.replace("'", "")
         result += (question, correct_answer),
     return result

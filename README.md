@@ -8,11 +8,12 @@
 
 This package contains five simple math games:
 
-***- Brain-even.*** You should to check is number is even.
+<code>***- Brain-even.*** You should to check is number is even.
 ***- Brain-calc.*** You should calculate the result of operation between two numbers.
 ***- Brain-gcd.*** You should find the greatest common divider.
 ***- Brain-progression.*** You should find skipped number in arithmetic progression.
 ***- Brain-prime.*** You should check is number is prime.
+</code>
 
 ## Installation
 
